@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "z894ofRa6Ax2W060ONIpMvMnEy/bcArXTz/aCUO5YRUecQCbixkSCqoBFldU1rtb24HRP5VtJTDq4MCLwkisSA==",
+  "success": true,
+  "projectFilePath": "C:\\csharp- apps\\Refleksija.App\\Refleksija.App\\Refleksija.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stanic\\.nuget\\packages\\maxmind.db\\3.0.0\\maxmind.db.3.0.0.nupkg.sha512",
+    "C:\\Users\\Stanic\\.nuget\\packages\\maxmind.geoip2\\4.1.0\\maxmind.geoip2.4.1.0.nupkg.sha512",
+    "C:\\Users\\Stanic\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Stanic\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Stanic\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Stanic\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

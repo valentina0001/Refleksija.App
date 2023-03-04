@@ -1,0 +1,16 @@
+C:\csharp- apps\Refleksija.App\String.App\bin\Debug\net5.0\String.App.exe
+C:\csharp- apps\Refleksija.App\String.App\bin\Debug\net5.0\String.App.deps.json
+C:\csharp- apps\Refleksija.App\String.App\bin\Debug\net5.0\String.App.runtimeconfig.json
+C:\csharp- apps\Refleksija.App\String.App\bin\Debug\net5.0\String.App.runtimeconfig.dev.json
+C:\csharp- apps\Refleksija.App\String.App\bin\Debug\net5.0\String.App.dll
+C:\csharp- apps\Refleksija.App\String.App\bin\Debug\net5.0\ref\String.App.dll
+C:\csharp- apps\Refleksija.App\String.App\bin\Debug\net5.0\String.App.pdb
+C:\csharp- apps\Refleksija.App\String.App\obj\Debug\net5.0\String.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp- apps\Refleksija.App\String.App\obj\Debug\net5.0\String.App.AssemblyInfoInputs.cache
+C:\csharp- apps\Refleksija.App\String.App\obj\Debug\net5.0\String.App.AssemblyInfo.cs
+C:\csharp- apps\Refleksija.App\String.App\obj\Debug\net5.0\String.App.csproj.CoreCompileInputs.cache
+C:\csharp- apps\Refleksija.App\String.App\obj\Debug\net5.0\String.App.dll
+C:\csharp- apps\Refleksija.App\String.App\obj\Debug\net5.0\ref\String.App.dll
+C:\csharp- apps\Refleksija.App\String.App\obj\Debug\net5.0\String.App.pdb
+C:\csharp- apps\Refleksija.App\String.App\obj\Debug\net5.0\String.App.genruntimeconfig.cache
+C:\csharp- apps\Refleksija.App\String.App\obj\Debug\net5.0\String.App.csproj.AssemblyReference.cache
